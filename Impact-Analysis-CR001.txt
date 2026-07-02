@@ -1,0 +1,14 @@
+Affected Configuration Items:
+
+Patient Module
+Appointment Module
+User Manual
+
+Estimated Risk:
+Medium
+
+Testing Required:
+Yes
+
+Documentation Update Required:
+Yes
